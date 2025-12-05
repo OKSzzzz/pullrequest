@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class GastoDinero {
     public static void main(String[] args) {
         Scanner gastardinero = new Scanner(System.in);
-        String personaje = "Trevor";
-        int cantiini = 250;
+        String personaje = "AnuelAA";
+        int cantiini = 450;
         System.out.println("Dime caunto dinero quieres gastar");
         int gastar = gastardinero.nextInt();
         do{
